@@ -1,5 +1,9 @@
 # MorphixAI 文档
 
+## 下一阶段需求（调研稿，未实施）
+
+- [OpenClaw 与 Morphix App Skill 对齐](plans/morphix-app-skill-alignment-20261011.md)：旧工具接线、多账号、共同 App 工作流和分发验收。
+
 ## 🚀 快速开始
 
 **新用户从这里开始**:
